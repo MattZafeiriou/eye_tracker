@@ -8,7 +8,7 @@ A small python project to detect the pupil of the eye from an image
 ## Videos
 
 Disclaimer: The algorithm used, was implemented in a different project in order to detect the pupil of the eye in real time
-![Sample 1](https://github.com/MattZafeiriou/)
+![Sample 1](https://github.com/MattZafeiriou/eye_tracker/blob/main/videos/2024-02-21%2023-44-32.mp4)
 
 ## Contributing
 
